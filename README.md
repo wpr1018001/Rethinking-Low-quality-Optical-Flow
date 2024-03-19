@@ -26,3 +26,6 @@ If you find the dataset or code useful, please cite:
 }
 } 
 ```
+## Acknowledgements
+Our code is based on / inspired by the following repositories:
+* https://github.com/TonyLianLong/RCF-UnsupVideoSeg (published under [MIT License])
