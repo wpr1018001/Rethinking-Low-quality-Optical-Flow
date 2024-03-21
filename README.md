@@ -6,8 +6,8 @@ Before releasing the training method you can try replacing the RCF counterpart f
 
 ## TODO
 - [ ] **Core Code Release**
-  - [ ] flow_aggregation_head_with_residual.py
-  - [ ] data.py
+  - [x] flow_aggregation_head_with_residual.py
+  - [x] data.py
   - [ ] main_test.py
 - [ ] **Training Method**
 - [ ] **Pretrain Model**
