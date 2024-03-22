@@ -17,13 +17,11 @@ Before releasing the training method you can try replacing the RCF counterpart f
 If you find the dataset or code useful, please cite:
 
 ```bibtex
-@misc{wu2024rethinking,
-      title={Rethinking Low-quality Optical Flow in Unsupervised Surgical Instrument Segmentation}, 
-      author={Peiran Wu and Yang Liu and Jiayu Huo and Gongyu Zhang and Christos Bergeles and Rachel Sparks and Prokar Dasgupta and Alejandro Granados and Sebastien Ourselin},
-      year={2024},
-      eprint={2403.10039},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{wu2024rethinking,
+  title={Rethinking Low-quality Optical Flow in Unsupervised Surgical Instrument Segmentation},
+  author={Wu, Peiran and Liu, Yang and Huo, Jiayu and Zhang, Gongyu and Bergeles, Christos and Sparks, Rachel and Dasgupta, Prokar and Granados, Alejandro and Ourselin, Sebastien},
+  journal={arXiv preprint arXiv:2403.10039},
+  year={2024}
 }
 } 
 ```
