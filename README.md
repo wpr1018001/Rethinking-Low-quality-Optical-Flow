@@ -23,7 +23,6 @@ If you find the dataset or code useful, please cite:
   journal={arXiv preprint arXiv:2403.10039},
   year={2024}
 }
-} 
 ```
 ## Acknowledgements
 Our code is based on / inspired by the following repositories:
