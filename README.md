@@ -1,6 +1,9 @@
 # [<b>Rethinking Low-quality Optical Flow in Unsupervised Surgical Instrument Segmentation</b>](https://arxiv.org/abs/2403.10039)
 [![arXiv](https://img.shields.io/badge/arXiv-2402.19043-b31b1b.svg)](https://arxiv.org/abs/2403.10039)
 
+<p align="center">
+        <img src="./figure/0053_copy.png">
+</p>
 
 <p align="center">
         <img src="./figure/0058.png">
