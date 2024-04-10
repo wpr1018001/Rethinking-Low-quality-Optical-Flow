@@ -1,6 +1,12 @@
 # [<b>Rethinking Low-quality Optical Flow in Unsupervised Surgical Instrument Segmentation</b>](https://arxiv.org/abs/2403.10039)
 [![arXiv](https://img.shields.io/badge/arXiv-2402.19043-b31b1b.svg)](https://arxiv.org/abs/2403.10039)
 
+
+<p align="center">
+        <img src="./figure/results.png">
+</p>
+
+
 Before releasing the training method you can try replacing the RCF counterpart file for the training
 
 ## Datasets
